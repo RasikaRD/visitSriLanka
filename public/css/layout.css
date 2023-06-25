@@ -1,0 +1,9 @@
+body{
+    color: black !important;
+    font-family: var(--bs-font-sans-serif) !important;
+    background-image: url("../images/back.jpg")  !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+
+}

@@ -1,11 +1,11 @@
 @extends('layouts.layout')
 @section('content')
-    <div class="container mt-5">
+    <div class="container mt-5 mb-5">
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card">
                     <div class="card-header">
-                        <h4>Beautiful Locations near to {{ $location }}</h4>
+                        <h4>Attractive Locations near to {{ $location }}</h4>
                     </div>
                     <div class="row mb-3 mt-2 ml-3 justify-content-center">
                         <div class="col-md-10">
