@@ -47,7 +47,7 @@ class TravelController extends Controller
                         "content" => $prompt
                     ]
                 ],
-                'temperature' => 0.5,
+                'temperature' => 0.1,
                 "max_tokens" => 200,
                 "top_p" => 1.0,
                 "frequency_penalty" => 0.52,
