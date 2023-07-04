@@ -4,8 +4,8 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card">
-                    <div class="card-header center">
-                        <h4>#visit Sri Lanka </h4>
+                    <div class="card-header">
+                        <h4 class="text1">Sri Lanka: Explore the Emerald Island </h4>
                         
                     </div>
 
@@ -15,7 +15,7 @@
 
                         <div class="row mb-3">
                             
-                            <label for="location" class="col-md-4 col-form-label text-md-end mt-4"><b>{{ __('Destination') }}:</b></label>
+                            <label for="location" class="col-md-4  text-md-end mt-4 text2"><b>{{ __('Destination') }}:</b></label>
 
                             <div class="col-md-6 mt-4">
                                 <input id="location" type="text"

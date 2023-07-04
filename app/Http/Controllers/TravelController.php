@@ -58,6 +58,8 @@ class TravelController extends Controller
         $responses = $data['choices'][0]['message']['content'];
         // dd($responses);
 
+        
+
         return $responses;
     }
 }
